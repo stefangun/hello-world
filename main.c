@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define PROGRAM_VERSION		2
+#define PROGRAM_VERSION		3
 
 int main(int argc, char *argv[])
 {
